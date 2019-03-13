@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<affairs>
+    <affair ID="0">
+        <name>Pavel</name>
+        <birthDate>01.01.1998</birthDate>
+        <course>3</course>
+    </affair>
+    <affair ID="1">
+        <name>Vlad</name>
+        <birthDate>10.06.1998</birthDate>
+        <course>3</course>
+    </affair>
+</affairs>

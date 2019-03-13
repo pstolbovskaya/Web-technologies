@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+    <user>
+        <login>user</login>
+        <password>8D969EEF6ECAD3C29A3A629280E686CF0C3F5D5A86AFF3CA12020C923ADC6C92</password>
+        <role>USER</role>
+    </user>
+    <user>
+        <login>admin</login>
+        <password>8D969EEF6ECAD3C29A3A629280E686CF0C3F5D5A86AFF3CA12020C923ADC6C92</password>
+        <role>ADMIN</role>
+    </user>
+    <user>
+        <login>try</login>
+        <password>1E262CD7D110812F5726055A6E672B92CDE43648B76ADFF51A12441FBDF7E667</password>
+        <role>USER</role>
+    </user>
+</users>
